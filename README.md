@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shashank 👋
 
-<!--
-**Shashank2-1/Shashank2-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechatronics Engineer | 🤖 Robotics & AI Enthusiast  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Interests:
+- Robotics, Mechatronics Systems
+- Embedded Systems (Raspberry Pi, Arduino)
+- Computer Vision and AI for Robotics
+- CAD Design (CATIA, Fusion 360)
+
+💡 Skills:
+Python | C++ | Arduino | Raspberry Pi | CATIA V5 | Fusion 360 | Linux | CCNA 
+
+Reach me at: shank.21@zohomail.in
+LinkedIn:
