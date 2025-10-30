@@ -7,7 +7,7 @@
 - Robotics, Mechatronics Systems
 - Embedded Systems (Raspberry Pi, Arduino)
 - Computer Vision and AI for Robotics
-- CAD Design (CATIA, Fusion 360)
+- CAD Design (CATIA, Solidworks)
 
 💡 Skills:
 Python | C++ | Arduino | Raspberry Pi | CATIA V5 | Fusion 360 | Linux | CCNA 
